@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **shekharsharma0818@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/shekhar34451801" target="blank"><img src="https://img.shields.io/twitter/follow/shekhar34451801?logo=twitter&style=for-the-badge" alt="shekhar34451801" /></a> </p>
 
 
 
