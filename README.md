@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Shekhar Sharma !</h1>
+<h1 align="left">Hi 👋, I'm Shekhar Sharma!</h1>
 
 - 💬 Ask me about **Android Development, Java, Python, C++ programming, etc.**
 
